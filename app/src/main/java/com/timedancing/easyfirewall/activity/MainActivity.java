@@ -88,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
 		});
 
 		mMaskView.setVisibility(AppConfig.isNeedShowTips(this) ? View.VISIBLE : View.GONE);
-		mTipsView.setVisibility(AppConfig.isNeedShowTips(this) ? View.VISIBLE : View.GONE);
+//		mTipsView.setVisibility(AppConfig.isNeedShowTips(this) ? View.VISIBLE : View.GONE);
 
 		mSettingView.setOnClickListener(new View.OnClickListener() {
 			@Override

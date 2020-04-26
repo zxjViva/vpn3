@@ -72,6 +72,7 @@
 	</com.timedancing.easyfirewall.view.RippleBackground >
 
 	<com.timedancing.easyfirewall.view.TipsLayout
+		android:visibility="gone"
 			android:id = "@+id/tipsLayout"
 			android:layout_width = "250dp"
 			android:layout_height = "67dp"
